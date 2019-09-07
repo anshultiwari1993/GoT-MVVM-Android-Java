@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+    <string name="sort_by">Sort By: </string>
+
+    <string-array name="sort">
+        <item>Age</item>
+        <item>Height</item>
+        <item>Popularity</item>
+    </string-array>
+</resources>
